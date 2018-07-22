@@ -1,6 +1,4 @@
-# Flask Example for Docker and Kubernetes
-
-## Work-In-Progress
+# Flask+Docker+Kubernetes
 
 ## To Build
 
@@ -15,3 +13,7 @@ docker run -d -p 5000:5000 flask-kubernetes-example
 curl http://localhost:5000
 
 ```
+
+## To Do
+
+change project ID for image in deployment.yaml 
