@@ -16,9 +16,9 @@ curl http://localhost:5000
 
 ## Deploying to Kubernetes
 
-for v1
-for project id udemy-data-engineer-210920 (also see image in deployment.yaml)
-for port 5000
+for v1\
+for project id udemy-data-engineer-210920 (also see image in deployment.yaml)\
+for port 5000\
 
 ```
 git clone https://github.com/redvg/flask-on-k8s
